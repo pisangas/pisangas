@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://cdn2.iconfinder.com/data/icons/linicons-information-technology/1550/programmer_software_developer-64.png" width=200 />
+  <img src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/71-github-512.png" width=200 />
 </div>
 
 <div id="hey" align="center">
