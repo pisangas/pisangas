@@ -44,15 +44,21 @@ Me apasiona aprender tecnologías modernas y aplicarlas en proyectos reales que 
   <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="Git" **alt="Git" width="40" height="40"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" title="C++" alt="C++" width="40" height="40"/>&nbsp;
 </div>
-  
+
+
 ## :fire: Mis Estadisticas:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pisangas&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisangas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">  
 
-[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisangas&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pisangas&theme=nightowl&background=000000)](https://git.io/streak-stats)
 
-------
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisangas&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisangas&show_icons=true&theme=nightowl))](https://github.com/al3sha9/github-readme-stats)
+
+</div>
+
+---
 
 Credit: [pisangas](https://github.com/al3sha9)
 
