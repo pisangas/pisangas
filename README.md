@@ -4,23 +4,53 @@
 
 <div id="hey" align="center">
   <h1>
-    Hola!
-    {Soy Eduardo Gil}
+    {Hola, Soy Eduardo Gil}
     <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width=40 />
   </h1>
 </div>
 
-<div id="badges" align="center">
-  <a href="mailto:pisangas@gmail.com">
-    <img src="https://img.shields.io/badge/-Email%20Me-red?style=for-the-badge" alt="Website Badge"/>
+<div id="badges" align="center" style="display:flex; gap:10px; justify-content:center;">
+  <a href="mailto:pisangas@gmail.com" style="text-decoration:none;">
+    <span style="
+      display:inline-block;
+      background-color:#e63946;
+      color:white;
+      padding:8px 14px;
+      border-radius:6px;
+      font-family:sans-serif;
+      font-weight:bold;">
+      Mi Correo
+    </span>
   </a>  
-  <a href="https://github.com/pisangas">
-    <img src="https://img.shields.io/badge/-My%20Website-red?style=for-the-badge" alt="Website Badge"/>
+
+  <a href="https://github.com/pisangas" style="text-decoration:none;">
+    <span style="
+      display:inline-block;
+      background-color:#333;
+      color:white;
+      padding:8px 14px;
+      border-radius:6px;
+      font-family:sans-serif;
+      font-weight:bold;">
+      Mis Proyectos GitHub 
+    </span>
   </a>
-  <a href="https://www.linkedin.com/in/eduardogilrivas/">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+
+  <a href="https://www.linkedin.com/in/eduardogilrivas/" style="text-decoration:none;">
+    <span style="
+      display:inline-block;
+      background-color:#0077b5;
+      color:white;
+      padding:8px 14px;
+      border-radius:6px;
+      font-family:sans-serif;
+      font-weight:bold;">
+      LinkedIn
+    </span>
   </a>
+
 </div>
+
 
 <div id="profile-views" align="center">
   <img src="https://komarev.com/ghpvc/?username=al3sha9&style=flat-square&color=blue" alt="Profiel Views"/>
