@@ -22,7 +22,7 @@
 </div>
 
 ## :man_technologist: Un poco de mi:
-Soy Ingeniero de Software con experiencia en desarrollo backend en C# .NET. Actualmente estoy ampliando mis conocimientos en HTML, CSS y JavaScript, con el objetivo de fortalecer mis habilidades en desarrollo full stack y ser más competitivo en la industria.
+Soy Ingeniero de Software y Desarrollador Full Stack .NET. Actualmente estoy ampliando mis conocimientos en HTML, CSS y JavaScript, con el objetivo de fortalecer mis habilidades en desarrollo full stack y ser más competitivo en la industria.
 
 Me apasiona aprender tecnologías modernas y aplicarlas en proyectos reales que conecten el backend con el frontend. Disfruto diseñar soluciones limpias, optimizadas y orientadas a resolver problemas de negocio de forma eficiente. Además de mi experiencia técnica, me caracterizo por ser una persona disciplinada y comprometida, siempre en búsqueda de nuevos retos y oportunidades para crecer profesional y personalmente.
 
