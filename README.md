@@ -9,93 +9,51 @@
   </h1>
 </div>
 
-<div id="badges" align="center" style="display:flex; gap:10px; justify-content:center;">
-  <a href="mailto:pisangas@gmail.com" style="text-decoration:none;">
-    <span style="
-      display:inline-block;
-      background-color:#e63946;
-      color:white;
-      padding:8px 14px;
-      border-radius:6px;
-      font-family:sans-serif;
-      font-weight:bold;">
-      Mi Correo
-    </span>
-  </a>  
-
-  <a href="https://github.com/pisangas" style="text-decoration:none;">
-    <span style="
-      display:inline-block;
-      background-color:#333;
-      color:white;
-      padding:8px 14px;
-      border-radius:6px;
-      font-family:sans-serif;
-      font-weight:bold;">
-      Mis Proyectos GitHub 
-    </span>
-  </a>
-
-  <a href="https://www.linkedin.com/in/eduardogilrivas/" style="text-decoration:none;">
-    <span style="
-      display:inline-block;
-      background-color:#0077b5;
-      color:white;
-      padding:8px 14px;
-      border-radius:6px;
-      font-family:sans-serif;
-      font-weight:bold;">
-      LinkedIn
-    </span>
-  </a>
-
+<div id="badges" align="center">
+<a href="mailto:pisangas@gmail.com" style="text-decoration:none;" style="margin:0 50px;">
+  <img src="https://cdn2.iconfinder.com/data/icons/social-media-2259/512/search-64.png" alt="Twitter Badge"/>  
+</a>
+<a href="https://github.com/pisangas" style="margin:0 50px;">
+  <img src="https://cdn1.iconfinder.com/data/icons/unicons-line-vol-3/24/github-alt-64.png" alt="Website Badge"/>
+</a>
+<a href="https://www.linkedin.com/in/eduardogilrivas/" style="margin:0 50px;">
+  <img src="https://cdn3.iconfinder.com/data/icons/social-media-chamfered-corner/154/linkedin-64.png" alt="Website Badge"/>
+</a>
 </div>
 
+## :man_technologist: Un poco de mi:
+Soy Ingeniero de Software con experiencia en desarrollo backend en C# .NET. Actualmente estoy ampliando mis conocimientos en HTML, CSS y JavaScript, con el objetivo de fortalecer mis habilidades en desarrollo full stack y ser más competitivo en la industria.
 
-<div id="profile-views" align="center">
-  <img src="https://komarev.com/ghpvc/?username=al3sha9&style=flat-square&color=blue" alt="Profiel Views"/>
-</div>
+Me apasiona aprender tecnologías modernas y aplicarlas en proyectos reales que conecten el backend con el frontend. Disfruto diseñar soluciones limpias, optimizadas y orientadas a resolver problemas de negocio de forma eficiente. Además de mi experiencia técnica, me caracterizo por ser una persona disciplinada y comprometida, siempre en búsqueda de nuevos retos y oportunidades para crecer profesional y personalmente.
 
+📌 Puedes conocer más sobre mi trabajo aquí:
 
-## :man_technologist: About Me:
-As a seasoned web developer with expertise in HTML, CSS, JavaScript, React, Git, and Jest testing, I have honed my skills through hands-on experience in various organizations. Having worked as a web developer in two companies, I bring a wealth of knowledge and practical insights to my current role as a blockchain developer. In my current position, I am working on cutting-edge blockchain technologies like Cardano and Algorand Defi Projects, which has allowed me to expand my skill set and stay at the forefront of the latest advancements in the industry. I am passionate about using my skills to create innovative solutions that drive business growth and help organizations achieve their objectives.
+🔗 GitHub
+   – donde comparto proyectos y experimentos de desarrollo.
 
-As a 19-year-old university student studying Software Engineering, I am enthusiastic about exploring new technologies and pushing the boundaries of what is possible through programming. I am committed to producing high-quality work and delivering results that exceed expectations. If you're looking for a motivated and dedicated software developer, I would love to connect and discuss potential opportunities!
-
-- 🔭 I’m currently working on DeFi Project on Cardano.
-- 🌱 I’m currently learning more about advanced DeFi and exploring more DeFi protocols, Testing, Solidity etc.
-- 💬 ping me about anything blockchain related :smile:.
-- 📫 How to reach me: email me [alishandev@proton.me](mailto:alishandev@proton.me), you can also contact me from my [website](https://al3sha9.github.io/portfolio/).
-
-
-## :hammer_and_wrench: Languages and Tools:
-<div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/materialui/materialui-original.svg" title="Material UI" alt="Material UI" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="NodeJS" alt="NodeJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="40" height="40"/>&nbsp;
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" title="Docker" alt="Docker" width="40" height="40"/>&nbsp;
-</div>
+💼 LinkedIn
+   – mi perfil profesional y trayectoria.
  
 
+## :hammer_and_wrench: Lenguajes y herramientas:
+<div>  
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/css-icon.png" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/>&nbsp;  
+  <img src="https://www.svgrepo.com/show/303548/git-icon-logo.svg" title="Git" **alt="Git" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bd/Logo_C_sharp.svg/256px-Logo_C_sharp.svg.png?20221121173824" title="C++" alt="C++" width="40" height="40"/>&nbsp;
+</div>
   
 ## :fire: My Stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=al3sha9&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pisangas&theme=dark&background=000000)](https://git.io/streak-stats)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pisangas&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=al3sha9&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=al3sha9&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
-
+[![Alishans's GitHub stats](https://github-readme-stats.vercel.app/api?username=pisangas&show_icons=true&theme=radical))](https://github.com/al3sha9/github-readme-stats)
 
 ------
 
-Credit: [al3sha9](https://github.com/al3sha9)
+Credit: [pisangas](https://github.com/al3sha9)
 
-Last Edited on: 3/7/2023
+Last Edited on: 9/8/2025
